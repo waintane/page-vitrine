@@ -1,0 +1,13 @@
+{
+    "banniere1": {
+        "compagnie": "Brothium",
+        "titre" : "Passer à l'hybride",
+        "text": "Lorem ipsum dolor sit amet, consectetur dipis elit, sed do eiusmod tempor ",
+        "bouton": "Les hybrides"
+    },
+    "menuSecondaire": {
+        "offreSpecial" : "Offres spéciales",
+        "revendeur": "Trouver un revendeur",
+        "offre": "Offre en cours"
+    }
+}

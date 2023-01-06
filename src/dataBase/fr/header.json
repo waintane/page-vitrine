@@ -1,0 +1,13 @@
+{
+    "header": {
+        "menu": 
+            {
+            "models" : "Models",
+            "motosport" : "Motosport",
+            "magasin": "Magasin",
+            "aPropos": "À propos"
+            },
+        "logo": "url",
+        "savoirPlus": "En savoir plus"
+    }
+}
